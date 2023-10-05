@@ -32,11 +32,31 @@
 
 
 
-## Part 3
+## Part 3 Data Wrangling Basics with R
 
 
-### Section 3.1
+### Section 3.1 Data frame
 
+Change the column header name of a certain df:
+```{r echo= TRUE, error=TRUE}
+df = data.frame( 
+col1 = c('A', 'B', 'C', 'J', 'E', NA,'M'), 
+col2 = c(12.5, 9, 16.5, NA, 9, 20, 14.5), 
+col3 = c(NA, 3, 2, NA, 1, NA, 0)) 
+  
+# printing original data frame 
+print("Original data frame : ") 
+print(df) 
+  
+print("Renaming columns names ") 
+
+# assigning the second column name to a new name 
+colnames(df)[2] <- "new_col2"
+  
+# printing new data frame 
+print("New data frame : ") 
+print(df) 
+```
 
 ### Section 3.2
 
