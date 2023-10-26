@@ -1,3 +1,5 @@
+__Machine Summary of book__
+
 Chapter 10 of Mark Monmonier's 1996 book "How to Lie with Maps" is titled "Large-Scale Mapping, Culture, and National Interest." In this chapter, Monmonier discusses how large-scale maps, such as those used for city planning and zoning, can be used to promote or suppress certain cultural values and national interests.
 
 Monmonier begins by discussing the concept of prohibitive cartography, which is the use of maps to define and enforce boundaries. For example, a map of a city's zoning districts can be used to prohibit certain types of development in certain areas. Monmonier argues that prohibitive cartography can be used to perpetuate social and economic inequality, as it can be used to segregate people and businesses based on race, class, or other factors.
