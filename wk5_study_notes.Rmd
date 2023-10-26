@@ -1,0 +1,35 @@
+Chapter 10 of Mark Monmonier's 1996 book "How to Lie with Maps" is titled "Large-Scale Mapping, Culture, and National Interest." In this chapter, Monmonier discusses how large-scale maps, such as those used for city planning and zoning, can be used to promote or suppress certain cultural values and national interests.
+
+Monmonier begins by discussing the concept of prohibitive cartography, which is the use of maps to define and enforce boundaries. For example, a map of a city's zoning districts can be used to prohibit certain types of development in certain areas. Monmonier argues that prohibitive cartography can be used to perpetuate social and economic inequality, as it can be used to segregate people and businesses based on race, class, or other factors.
+
+Monmonier then goes on to discuss how maps can be used to promote or suppress certain cultural values. For example, a map of a city's historical landmarks might emphasize the importance of certain cultures or historical events, while downplaying the importance of others. Similarly, a map of the world might emphasize the size and importance of one country over others.
+
+Finally, Monmonier discusses how maps can be used to promote or suppress national interests. For example, a map of a disputed border region might be drawn in a way that favors one country over the other. Similarly, a map of natural resources might be used to exaggerate the resources of one country and downplay the resources of others.
+
+Monmonier concludes the chapter by arguing that it is important to be aware of the ways in which maps can be used to lie or mislead. He encourages readers to be critical of the maps they encounter, and to ask themselves who made the map, what their purpose was, and what message they are trying to convey.
+
+Here are some specific examples of how large-scale maps have been used to lie or mislead:
+
+  In the early 20th century, the United States government used maps to justify the displacement of Native Americans from their traditional homelands. The maps exaggerated the amount of land that the Native Americans were using, and downplayed the value of the land to them.
+  
+  In the 1930s, Nazi Germany used maps to promote its ideology of racial superiority. The maps exaggerated the size and importance of the Aryan race, while downplaying the size and importance of other races.
+  
+  In the 1960s, the United States government used maps to redline certain neighborhoods, which made it difficult for people of color to obtain mortgages. The maps were based on racial assumptions, and they had a devastating impact on the lives of many people.
+
+Monmonier's book is an important reminder that maps are not objective representations of reality. They are created by people, and they can be used to promote or suppress certain agendas. It is important to be critical of the maps we encounter, and to understand the ways in which they can be used to lie or mislead.
+
+
+
+In Chapter 10 of the 1996 edition, titled "Statistical Mapping," Monmonier likely delves into the challenges and potential pitfalls associated with creating maps based on statistical data. He might discuss issues such as:
+
+  Misleading Scaling: How the choice of scale on a map can significantly influence how the data is perceived. Changing the scale can make data appear more or less significant than it actually is.
+
+  Choropleth Maps: These are thematic maps that use shading or coloring to represent statistical data for areas, like states or counties. Monmonier might discuss how the choice of color scheme or classification method can impact the interpretation of the data.
+
+  Data Classification: The process of categorizing data into ranges or classes for mapping purposes. Monmonier might touch on how different classification methods can lead to different visual representations of the same data.
+
+  Exaggeration and Distortion: Techniques that can be used to emphasize or de-emphasize certain aspects of the data, potentially leading to misleading interpretations.
+
+  Data Aggregation: How the decision to aggregate data into larger units (e.g., combining counties into regions) can influence the portrayal of trends or patterns.
+
+Remember that this summary is based on general knowledge of cartography and common issues discussed in books like "How to Lie with Maps." For specific details about Chapter 10 in the second edition, you might need to consult the book directly or look for more recent summaries if new editions have been released after January 2022.
